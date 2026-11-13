@@ -1,0 +1,11 @@
+## Interface: 50504
+## Title: Out of Melee
+## Notes: Shows a "!" when your target is out of melee range.
+## Author: Marris
+## Version: @project-version@
+## IconTexture: Interface\AddOns\OutOfMelee\Media\icon
+## SavedVariables: OutOfMeleeDB
+## OptionalDeps: Ace3
+
+embeds.xml
+OutOfMelee.lua

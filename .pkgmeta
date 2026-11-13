@@ -1,0 +1,5 @@
+package-as: OutOfMelee
+manual-changelog: CHANGELOG.txt
+
+ignore:
+  - Promo

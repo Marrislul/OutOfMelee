@@ -1,0 +1,3 @@
+0.0.1
+
+- First release: shows a "!" when your target is out of melee range.
